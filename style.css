@@ -1,0 +1,105 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: rgba(75, 231, 223, 0.842);
+  color: rgb(8, 116, 116);
+}
+p {
+  font-size: 16px;
+  padding-bottom: 30px;
+}
+h1 {
+  font-size: 60px;
+  font-family: 'Lobster', cursive;
+}
+h2 {
+  font-size: 48px;
+}
+.one-section h1 {
+  border-left: 5px solid rgb(3, 185, 185);
+}
+.org {
+  color: rgb(250, 205, 97);
+}
+
+.haf-width {
+  width: 50%;
+  margin-left: 40px;
+}
+
+.person {
+  width: 80%;
+}
+
+.one-section {
+  display: flex;
+  margin-top: 80px;
+  margin-bottom: 160px;
+}
+.btn {
+  background-color: rgb(226, 76, 76);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.pic-1 {
+  width: 40%;
+}
+.card-1 {
+  background-color: #f685e7;
+  width: 300px;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.card-2 {
+  background-color: #53c1d4;
+  width: 300px;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.card-3 {
+  background-color: #85e66c;
+  width: 300px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.hadding {
+  text-align: center;
+}
+
+.two-section {
+  display: flex;
+  justify-content: space-around;
+  margin-top:80px;
+  margin-bottom: 160px;
+}
+
+.png {
+  width: 80%;
+}
+
+.three-section {
+  display: flex;
+  margin-top:160px;
+  margin-bottom: 160px;
+}
+
+.four-section {
+  display: flex;
+  margin-top:80px;
+  margin-bottom: 80px;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(0, 21, 19);
+  padding: 10px;
+  margin-top:80px;
+}
+
+.span {
+  color: rgb(0, 0, 0);
+}
